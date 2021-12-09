@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WeatherApiUsingQueryWithParams": {
+      "commandName": "Project",
+      "commandLineArgs": "\"New york\""
+    }
+  }
+}

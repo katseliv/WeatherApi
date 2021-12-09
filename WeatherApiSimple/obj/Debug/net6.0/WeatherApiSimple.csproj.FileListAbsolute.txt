@@ -1,0 +1,15 @@
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\bin\Debug\net6.0\WeatherApiSimple.exe
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\bin\Debug\net6.0\WeatherApiSimple.deps.json
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\bin\Debug\net6.0\WeatherApiSimple.runtimeconfig.json
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\bin\Debug\net6.0\WeatherApiSimple.dll
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\bin\Debug\net6.0\ref\WeatherApiSimple.dll
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\bin\Debug\net6.0\WeatherApiSimple.pdb
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\obj\Debug\net6.0\WeatherApiSimple.csproj.AssemblyReference.cache
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\obj\Debug\net6.0\WeatherApiSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\obj\Debug\net6.0\WeatherApiSimple.AssemblyInfoInputs.cache
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\obj\Debug\net6.0\WeatherApiSimple.AssemblyInfo.cs
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\obj\Debug\net6.0\WeatherApiSimple.csproj.CoreCompileInputs.cache
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\obj\Debug\net6.0\WeatherApiSimple.dll
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\obj\Debug\net6.0\ref\WeatherApiSimple.dll
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\obj\Debug\net6.0\WeatherApiSimple.pdb
+C:\Users\katse\Downloads\dotnet-lessons-master\00 WeatherApi\WeatherApiSimple\obj\Debug\net6.0\WeatherApiSimple.genruntimeconfig.cache
